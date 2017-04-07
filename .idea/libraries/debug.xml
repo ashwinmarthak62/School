@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DigiPass App/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8-7d2413a0c847ee5ad88b3e4219414ff151b1e0af.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DigiPass App/app/build/intermediates/pre-dexed/debug/classes-e4bd4ef445c054c8d049b5d62fe6659caf92ed3c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DigiPass App/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-bf51d7f9e44edbbe3de716c9949397e78f65dc71.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DigiPass App/app/build/intermediates/pre-dexed/debug/classes-82a75f3fc4970b739a5629db53491deedea3e3ed.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DigiPass App/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-b1a0ad9cdbab2cfc4a6f6060fa7d3298d2687bd6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DigiPass App/app/build/intermediates/pre-dexed/debug/classes-e487cd1dcd1276fec70a30f28574d245bf8ec295.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DigiPass App/app/build/intermediates/pre-dexed/debug/classes-382c59bdbaafd7a06af65a24e80d0c36524aff4b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">School App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_newsletter">Newsletter</string>
+    <string name="nav_item_events">Events</string>
+    <string name="nav_item_alerts">alerts</string>
+    <string name="nav_item_adverts">Adverts</string>
+    <string name="nav_item_school_calendar">School</string>
+    <string name="nav_item_contact_us">Contact us</string>
+
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="registration_instruction">I do not have a username and password details. Click the button below to register</string>
+    <string name="register">Register</string>
+    <string name="student_id">Enter student ID</string>
+    <string name="is_login">You have been successfully login </string>
+    <string name="choose_password">Choose your Password</string>
+    <string name="email_enter">Enter your email</string>
+    <string name="mobile">Mobile</string>
+    <string name="telephone">Tel</string>
+    <string name="school_website">School website</string>
+    <string name="locate">Locate us</string>
+    <string name="postal_address">postal address</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_icons">
+        <item>@drawable/ic_news</item>
+        <item>@drawable/ic_events</item>
+        <item>@drawable/ic_alerts</item>
+        <item>@drawable/ic_advert</item>
+        <item>@drawable/ic_sch_calendar</item>
+        <item>@drawable/ic_contactus</item>
+    </string-array>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_newsletter</item>
+        <item>@string/nav_item_events</item>
+        <item>@string/nav_item_alerts</item>
+        <item>@string/nav_item_adverts</item>
+        <item>@string/nav_item_school_calendar</item>
+        <item>@string/nav_item_contact_us</item>
+    </string-array>
+
+    <string name="title_messages">Messages</string>
+    <string name="title_events">Events</string>
+    <string name="title_alerts">Alerts</string>
+    <string name="title_newsletters">Newsletters</string>
+    <string name="title_Adverts">Adverts</string>
+    <string name="title_school_calendar">School Calender</string>
+    <string name="title_Contact_Us">Contact us</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_first_term">FirstTerm</string>
+    <string name="title_activity_second_term">SecondTerm</string>
+    <string name="title_activity_third_term">ThirdTerm</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
